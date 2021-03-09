@@ -46,8 +46,7 @@ public class Elektriauto {
 
     @Override
     public String toString() {
-        return "Elektriauto: " +
-                "automark = '" + automark + '\'' +
+        return "automark = '" + automark + '\'' +
                 ", elektrikulu100KmKohta = " + elektrikulu +
                 ", laadimisaegMinutites = " + laadimisaeg +
                 ", sõiduulatusKilomeetrites = " + sõiduulatus +
